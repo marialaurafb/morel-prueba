@@ -1,8 +1,8 @@
 ---
-title: description
-lang: en
+title: descripción
+lang: sp
 ---
-This is a no-code sample of a site built with MOREL. MOREL generates web sites from bibliographic collections. The MOREL sites gather book covers, excerpts, bibliographic clues, metadata and digital downloads from items stored in the Zotero reference manager.
+Esta página muestra un ejemplo de sitio web construido con MOREL. MOREL generates websites from bibliographic collections. The MOREL sites gather book covers, excerpts, bibliographic clues, metadata and digital downloads from items stored in the Zotero reference manager.
 
 <!-- more -->
 
