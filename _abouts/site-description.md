@@ -1,8 +1,8 @@
 ---
-title: descripción
-lang: sp
+title: description
+lang: en
 ---
-Esta página muestra un ejemplo de sitio web construido con MOREL. MOREL generates websites from bibliographic collections. The MOREL sites gather book covers, excerpts, bibliographic clues, metadata and digital downloads from items stored in the Zotero reference manager.
+MOREL generates websites from bibliographic collections. The MOREL sites gather book covers, excerpts, bibliographic clues, metadata and digital downloads from items stored in the Zotero reference manager.
 
 <!-- more -->
 
